@@ -1,0 +1,634 @@
+customerID,Age,Gender,AnnualIncome,PurchaseAmount,StoreLocation,NumberOfItems,PaymentMethod,SatisfactionScore,LoyaltyProgram,ShoppingFrequency,GroceryPurchase,HouseholdPurchase,PersonalCarePurchase,BabyPurchase,PetPurchase
+124655,26,Female,45,164,Surry Hills,24,Online Payment,6,Yes,Monthly,1,1,0,1,0
+124656,24,Male,86,71,Randwick,28,Debit Card,6,No,Daily,1,0,1,0,0
+124657,64,Male,90,110,Manly,31,Mobile Payment,6,No,Weekly,0,1,0,1,0
+124658,64,Female,70,160,Bondi,19,Online Payment,5,Yes,Daily,0,0,1,0,0
+124659,56,Female,76,108,Hornsby,15,Cash,6,No,Monthly,1,0,0,1,1
+124660,42,Female,117,143,Sydney CBD,32,Debit Card,7,Yes,Weekly,1,1,0,0,1
+124661,25,Other,79,88,Hornsby,32,Cash,6,Yes,Weekly,1,1,1,1,0
+124662,37,Female,98,98,Parramatta,11,Gift Card,6,Yes,Daily,1,0,0,1,0
+124663,47,Other,17,156,Chatswood,30,Mobile Payment,6,Yes,Weekly,0,1,0,0,1
+124664,45,Female,134,159,Parramatta,27,Credit Card,5,Yes,Weekly,1,0,1,0,0
+124665,39,Male,92,101,Blacktown,31,Online Payment,5,No,Monthly,0,0,1,1,0
+124666,66,Female,100,69,Manly,16,Mobile Payment,8,Yes,Weekly,0,0,1,1,0
+124667,22,Female,122,40,Parramatta,24,Gift Card,9,No,Weekly,1,0,1,1,0
+124668,61,Female,83,133,Manly,26,Debit Card,7,Yes,Daily,0,0,1,0,0
+124669,67,Other,104,133,Sydney CBD,24,Debit Card,5,Yes,Weekly,1,1,0,0,1
+124670,60,Male,98,136,Surry Hills,8,Debit Card,7,No,Weekly,0,0,1,1,1
+124671,48,Male,97,164,Blacktown,17,Mobile Payment,7,Yes,Weekly,0,0,0,0,1
+124672,21,Female,77,105,Chatswood,16,Online Payment,7,Yes,Monthly,1,0,0,1,1
+124673,23,Female,90,167,Parramatta,23,Mobile Payment,5,Yes,Weekly,0,0,1,1,1
+124674,50,Male,75,75,Surry Hills,38,Credit Card,6,No,Weekly,0,1,1,0,1
+124675,57,Male,19,83,Surry Hills,16,Mobile Payment,6,Yes,Weekly,1,1,1,1,0
+124676,38,Male,87,110,Randwick,21,Credit Card,6,Yes,Monthly,1,0,1,1,1
+124677,36,Male,118,137,Hornsby,33,Debit Card,6,Yes,Weekly,1,1,1,0,1
+124678,72,Male,201,211,Manly,63,Credit Card,8,Yes,Weekly,1,1,1,0,1
+124679,68,Female,103,143,Sydney CBD,22,Credit Card,5,Yes,Weekly,1,0,0,0,1
+124680,22,Male,113,208,Randwick,35,Debit Card,5,Yes,Daily,1,0,0,1,0
+124681,50,Male,115,58,Cronulla,21,Credit Card,6,Yes,Weekly,0,0,1,0,1
+124682,26,Male,51,1,Castle Hill,27,Credit Card,5,No,Daily,0,0,0,1,1
+124683,49,Male,80,90,Hornsby,21,Mobile Payment,6,No,Monthly,1,0,1,1,1
+124684,46,Male,48,110,Cronulla,27,Debit Card,6,Yes,Weekly,0,1,0,0,1
+124685,40,Male,113,142,Surry Hills,20,Credit Card,4,No,Weekly,0,1,1,1,1
+124686,48,Other,93,132,Blacktown,25,Mobile Payment,7,Yes,Occasionally,1,0,0,0,1
+124687,70,Male,238,233,Manly,55,Credit Card,7,Yes,Weekly,1,0,1,0,0
+124688,26,Female,118,148,Parramatta,34,Debit Card,6,Yes,Monthly,1,0,0,1,0
+124689,56,Male,99,97,Hornsby,23,Online Payment,7,Yes,Weekly,1,1,0,1,1
+124690,31,Female,58,118,Blacktown,41,Credit Card,7,Yes,Weekly,1,0,1,1,0
+124691,75,Male,188,494,Hornsby,82,Mobile Payment,6,Yes,Monthly,1,1,0,1,1
+124692,34,Male,98,137,Hornsby,29,Debit Card,6,Yes,Monthly,0,1,0,1,1
+124693,21,Female,61,92,Chatswood,30,Debit Card,6,Yes,Weekly,1,1,0,1,1
+124694,34,Male,73,125,Parramatta,24,Online Payment,7,Yes,Monthly,0,0,1,1,0
+124695,50,Female,51,198,Castle Hill,41,Cash,4,Yes,Weekly,1,0,1,1,1
+124696,63,Female,142,31,Sydney CBD,33,Debit Card,6,Yes,Daily,0,0,1,1,0
+124697,65,Male,73,95,Manly,17,Credit Card,6,Yes,Weekly,1,1,1,1,0
+124698,28,Female,24,99,Surry Hills,16,Cash,7,Yes,Monthly,0,0,1,0,0
+124699,44,Male,108,110,Surry Hills,31,Debit Card,6,Yes,Monthly,1,1,1,0,0
+124700,44,Female,64,69,Hornsby,24,Cash,5,Yes,Weekly,0,0,0,0,1
+124701,20,Male,109,119,Liverpool,24,Debit Card,6,Yes,Weekly,1,0,1,0,0
+124702,29,Female,10,23,Surry Hills,31,Debit Card,6,Yes,Daily,0,1,0,0,1
+124703,45,Male,10,181,Penrith,29,Gift Card,6,Yes,Weekly,0,0,0,1,0
+124704,62,Female,78,195,Bondi,24,Debit Card,6,Yes,Daily,0,1,1,0,1
+124705,36,Female,42,89,Randwick,26,Mobile Payment,6,No,Daily,0,0,0,1,0
+124706,48,Female,142,145,Parramatta,1,Mobile Payment,6,Yes,Monthly,0,1,0,0,1
+124707,27,Male,69,83,Castle Hill,22,Credit Card,6,Yes,Occasionally,1,1,1,1,0
+124708,49,Male,121,159,Parramatta,17,Credit Card,7,Yes,Occasionally,0,0,1,0,0
+124709,28,Male,91,166,Penrith,43,Gift Card,5,Yes,Daily,0,1,0,0,0
+124710,54,Male,55,182,Parramatta,14,Credit Card,6,No,Monthly,0,0,0,1,0
+124711,65,Female,102,204,Hornsby,19,Credit Card,6,No,Monthly,0,0,0,0,0
+124712,26,Male,119,133,Surry Hills,14,Gift Card,5,Yes,Daily,1,1,0,0,1
+124713,37,Female,69,123,Penrith,24,Debit Card,5,Yes,Weekly,1,1,0,1,0
+124714,68,Female,77,146,Sydney CBD,46,Gift Card,6,Yes,Weekly,1,0,0,0,1
+124715,39,Female,26,103,Castle Hill,16,Mobile Payment,5,Yes,Monthly,1,0,1,1,0
+124716,42,Male,99,138,Burwood,12,Mobile Payment,6,Yes,Monthly,1,0,0,0,0
+124717,21,Male,51,75,Sydney CBD,23,Credit Card,6,Yes,Monthly,1,1,0,0,0
+124718,42,Male,84,90,Cronulla,29,Online Payment,6,No,Monthly,1,0,1,0,1
+124719,41,Female,61,109,Chatswood,15,Credit Card,6,No,Monthly,0,0,1,1,0
+124720,65,Female,118,159,Bondi,23,Credit Card,6,Yes,Weekly,1,1,0,1,0
+124721,59,Female,98,18,Chatswood,29,Gift Card,6,No,Weekly,0,1,0,0,0
+124722,76,Male,206,424,Sydney CBD,74,Mobile Payment,8,Yes,Monthly,1,1,0,1,0
+124723,51,Male,116,51,Hornsby,14,Gift Card,7,Yes,Daily,0,0,1,0,1
+124724,58,Female,128,223,Blacktown,21,Mobile Payment,6,Yes,Weekly,1,0,0,1,0
+124725,53,Male,79,138,Parramatta,15,Cash,6,Yes,Weekly,0,1,0,1,0
+124726,47,Male,120,118,Castle Hill,17,Cash,6,Yes,Weekly,0,1,1,0,1
+124727,54,Male,77,131,Sydney CBD,21,Credit Card,7,No,Daily,0,1,0,0,0
+124728,26,Female,135,110,Liverpool,21,Credit Card,6,No,Daily,1,0,1,0,1
+124729,25,Female,75,175,Liverpool,27,Debit Card,5,Yes,Weekly,0,0,1,0,0
+124730,25,Female,114,196,Sydney CBD,43,Gift Card,7,No,Monthly,1,0,1,0,0
+124731,36,Female,65,47,Manly,27,Mobile Payment,5,Yes,Daily,1,1,1,0,0
+124732,48,Female,82,154,Mascot,36,Debit Card,6,Yes,Daily,1,1,0,0,1
+124733,18,Male,101,22,Surry Hills,3,Debit Card,6,Yes,Monthly,1,0,1,0,0
+124734,42,Female,103,177,Penrith,16,Mobile Payment,6,No,Monthly,0,1,1,1,1
+124735,49,Male,32,181,Mascot,20,Credit Card,7,Yes,Occasionally,0,1,1,0,1
+124736,25,Male,102,113,Castle Hill,20,Debit Card,7,Yes,Monthly,0,0,1,1,0
+124737,61,Female,56,148,Manly,26,Credit Card,5,No,Weekly,0,1,1,1,1
+124738,61,Female,75,143,Sydney CBD,43,Gift Card,6,No,Monthly,1,0,0,0,1
+124739,59,Female,92,79,Castle Hill,15,Mobile Payment,7,Yes,Monthly,0,0,1,1,0
+124740,21,Female,23,175,Bondi,21,Credit Card,6,Yes,Weekly,1,0,0,1,0
+124741,46,Female,26,111,Sydney CBD,33,Online Payment,6,Yes,Daily,1,0,0,1,0
+124742,74,Male,233,258,Hornsby,79,Credit Card,6,Yes,Weekly,1,1,1,0,1
+124743,23,Female,85,162,Surry Hills,18,Mobile Payment,6,Yes,Daily,0,0,1,1,0
+124744,24,Female,128,107,Blacktown,15,Gift Card,7,Yes,Monthly,1,1,0,1,0
+124745,59,Male,77,110,Randwick,21,Debit Card,5,Yes,Daily,0,0,0,0,1
+124746,25,Female,66,161,Burwood,21,Mobile Payment,5,No,Occasionally,1,1,0,0,0
+124747,41,Male,134,84,Parramatta,31,Credit Card,5,Yes,Weekly,0,0,0,0,1
+124748,73,Male,237,253,Manly,73,Credit Card,8,Yes,Weekly,1,1,1,0,1
+124749,24,Male,69,134,Randwick,31,Credit Card,6,No,Daily,0,1,1,1,0
+124750,39,Male,96,108,Castle Hill,31,Cash,5,Yes,Monthly,1,0,0,1,1
+124751,42,Other,77,69,Parramatta,33,Gift Card,5,Yes,Daily,1,0,0,0,1
+124752,48,Female,74,188,Bondi,27,Gift Card,8,Yes,Daily,1,1,0,1,1
+124753,30,Female,115,179,Penrith,19,Credit Card,6,No,Weekly,1,0,1,0,1
+124754,24,Female,77,100,Sydney CBD,21,Gift Card,7,Yes,Daily,1,1,1,1,0
+124755,66,Male,55,143,Bondi,20,Gift Card,6,Yes,Weekly,1,0,0,0,0
+124756,31,Male,150,158,Hornsby,30,Debit Card,6,Yes,Weekly,0,0,1,0,1
+124757,72,Male,231,226,Manly,58,Credit Card,6,Yes,Weekly,1,0,1,0,1
+124758,31,Male,54,146,Manly,7,Cash,5,Yes,Occasionally,1,0,0,1,1
+124759,21,Male,123,141,Castle Hill,30,Debit Card,6,Yes,Weekly,1,1,0,0,0
+124760,68,Male,126,122,Manly,45,Credit Card,8,Yes,Weekly,1,1,0,0,1
+124761,73,Male,210,236,Hornsby,80,Credit Card,10,Yes,Weekly,1,1,1,0,1
+124762,63,Female,71,143,Manly,20,Credit Card,7,Yes,Weekly,0,1,1,0,1
+124763,61,Male,103,123,Manly,9,Debit Card,5,Yes,Daily,1,1,1,1,1
+124764,31,Male,90,90,Randwick,26,Mobile Payment,4,No,Occasionally,1,1,0,0,0
+124765,59,Female,48,108,Parramatta,32,Credit Card,5,No,Weekly,0,1,1,0,1
+124766,58,Male,133,87,Castle Hill,14,Debit Card,8,No,Daily,1,1,1,0,0
+124767,61,Female,128,101,Hornsby,32,Credit Card,6,Yes,Weekly,0,1,1,0,0
+124768,57,Male,90,150,Liverpool,23,Credit Card,7,No,Weekly,1,1,0,1,1
+124769,35,Female,136,64,Chatswood,49,Debit Card,7,No,Weekly,1,1,1,0,0
+124770,45,Other,31,155,Parramatta,30,Debit Card,4,Yes,Daily,1,1,1,1,1
+124771,53,Female,70,109,Penrith,10,Debit Card,5,Yes,Daily,1,1,0,1,1
+124772,41,Female,115,102,Castle Hill,27,Gift Card,6,Yes,Weekly,1,1,0,1,0
+124773,28,Male,126,179,Chatswood,36,Mobile Payment,4,Yes,Daily,0,1,0,0,0
+124774,54,Male,103,128,Parramatta,20,Credit Card,6,No,Weekly,1,0,1,1,1
+124775,60,Female,42,132,Hornsby,8,Credit Card,6,Yes,Weekly,1,0,1,1,0
+124776,39,Male,66,101,Blacktown,35,Credit Card,6,No,Daily,1,1,1,1,1
+124777,31,Female,121,91,Parramatta,13,Mobile Payment,6,No,Daily,1,1,1,1,0
+124778,75,Male,249,449,Hornsby,66,Mobile Payment,9,Yes,Monthly,1,1,0,1,1
+124779,58,Female,104,145,Parramatta,21,Credit Card,6,Yes,Daily,1,0,1,0,1
+124780,48,Female,120,86,Penrith,20,Mobile Payment,7,Yes,Daily,1,0,1,0,1
+124781,42,Female,70,102,Parramatta,8,Online Payment,6,No,Weekly,0,0,1,0,0
+124782,49,Male,102,109,Surry Hills,11,Gift Card,5,No,Weekly,0,1,0,0,0
+124783,61,Female,65,169,Hornsby,15,Mobile Payment,5,Yes,Occasionally,0,0,0,0,0
+124784,62,Female,94,69,Sydney CBD,30,Mobile Payment,5,Yes,Weekly,1,0,1,0,1
+124785,66,Male,120,121,Manly,9,Online Payment,5,Yes,Weekly,0,1,0,1,1
+124786,64,Other,110,130,Manly,23,Credit Card,6,No,Weekly,0,1,0,1,0
+124787,42,Male,83,94,Cronulla,16,Gift Card,6,Yes,Daily,1,0,0,0,0
+124788,30,Female,99,151,Randwick,27,Gift Card,6,No,Daily,0,1,1,0,0
+124789,64,Male,77,166,Sydney CBD,25,Credit Card,5,Yes,Weekly,0,0,1,0,0
+124790,53,Male,112,187,Bondi,18,Cash,5,Yes,Weekly,1,0,1,1,1
+124791,69,Male,91,79,Bondi,31,Credit Card,7,Yes,Weekly,1,1,0,0,1
+124792,21,Female,64,84,Sydney CBD,36,Gift Card,6,No,Weekly,1,0,0,1,0
+124793,31,Male,104,85,Newtown,28,Gift Card,5,Yes,Daily,1,0,0,0,1
+124794,39,Other,127,123,Parramatta,34,Credit Card,5,Yes,Daily,1,1,0,0,1
+124795,67,Female,79,208,Sydney CBD,14,Debit Card,6,Yes,Weekly,0,0,1,1,1
+124796,52,Male,145,117,Blacktown,25,Online Payment,5,No,Daily,1,1,0,0,0
+124797,75,Male,218,463,Sydney CBD,72,Mobile Payment,8,Yes,Weekly,1,1,1,0,1
+124798,72,Male,201,249,Bondi,59,Credit Card,7,Yes,Weekly,1,1,1,0,1
+124799,27,Female,67,134,Parramatta,19,Mobile Payment,6,Yes,Occasionally,0,1,0,1,1
+124800,26,Female,86,147,Sydney CBD,21,Mobile Payment,7,No,Occasionally,1,1,1,1,1
+124801,56,Male,100,158,Newtown,29,Cash,6,Yes,Monthly,0,0,0,0,1
+124802,25,Other,107,89,Blacktown,13,Debit Card,5,Yes,Daily,1,1,0,0,0
+124803,19,Female,23,182,Surry Hills,33,Credit Card,6,Yes,Weekly,1,1,0,0,0
+124804,25,Male,87,137,Surry Hills,22,Debit Card,6,Yes,Monthly,0,1,1,0,1
+124805,32,Other,78,111,Blacktown,28,Cash,7,Yes,Monthly,0,0,1,1,0
+124806,74,Male,247,375,Manly,83,Mobile Payment,7,Yes,Weekly,1,1,1,0,1
+124807,63,Male,44,124,Manly,31,Credit Card,6,Yes,Weekly,1,0,1,0,1
+124808,29,Male,122,172,Chatswood,24,Mobile Payment,5,Yes,Monthly,1,0,1,0,0
+124809,51,Female,39,36,Hornsby,24,Cash,7,Yes,Weekly,0,1,0,0,0
+124810,57,Male,84,163,Parramatta,22,Mobile Payment,6,No,Weekly,0,1,0,1,0
+124811,72,Male,229,204,Manly,45,Credit Card,5,Yes,Weekly,1,1,1,0,1
+124812,58,Male,79,143,Liverpool,35,Debit Card,5,Yes,Occasionally,0,1,0,0,1
+124813,47,Female,97,74,Cronulla,24,Debit Card,6,Yes,Monthly,1,1,1,0,0
+124814,29,Female,71,147,Surry Hills,29,Debit Card,8,Yes,Daily,1,1,1,1,1
+124815,57,Female,93,91,Liverpool,21,Credit Card,4,No,Occasionally,1,1,1,0,1
+124816,56,Female,94,146,Randwick,38,Mobile Payment,5,Yes,Monthly,1,0,1,0,0
+124817,58,Female,113,100,Bondi,18,Mobile Payment,7,Yes,Weekly,0,1,1,0,0
+124818,30,Female,93,149,Randwick,27,Mobile Payment,6,Yes,Daily,1,1,0,0,0
+124819,43,Female,78,114,Newtown,32,Credit Card,8,No,Occasionally,1,1,0,0,0
+124820,35,Female,149,112,Surry Hills,36,Online Payment,4,No,Weekly,1,0,1,1,0
+124821,56,Male,132,177,Chatswood,32,Online Payment,6,Yes,Weekly,0,1,1,0,0
+124822,56,Female,91,118,Castle Hill,29,Online Payment,6,Yes,Weekly,1,0,0,0,1
+124823,50,Female,84,115,Liverpool,23,Cash,8,Yes,Weekly,0,1,1,0,0
+124824,61,Female,34,107,Bondi,39,Mobile Payment,5,Yes,Occasionally,0,1,0,1,0
+124825,50,Female,62,90,Blacktown,25,Debit Card,7,No,Weekly,0,0,1,0,0
+124826,43,Male,143,46,Castle Hill,16,Debit Card,6,Yes,Daily,0,1,1,1,0
+124827,46,Male,68,182,Chatswood,23,Debit Card,7,No,Daily,0,0,0,0,0
+124828,48,Male,109,156,Blacktown,20,Debit Card,6,Yes,Daily,0,0,0,1,0
+124829,33,Female,150,136,Castle Hill,18,Gift Card,6,Yes,Weekly,1,0,1,0,1
+124830,45,Other,119,71,Castle Hill,30,Credit Card,5,Yes,Monthly,0,1,1,1,0
+124831,69,Female,104,133,Sydney CBD,47,Debit Card,6,Yes,Weekly,0,1,0,0,0
+124832,69,Male,103,103,Manly,51,Credit Card,5,Yes,Weekly,0,0,0,0,0
+124833,25,Male,122,105,Sydney CBD,31,Credit Card,7,Yes,Weekly,0,0,0,1,0
+124834,67,Male,93,75,Sydney CBD,26,Debit Card,6,Yes,Monthly,0,1,1,0,1
+124835,38,Female,115,130,Parramatta,31,Online Payment,5,No,Monthly,1,0,1,1,0
+124836,24,Male,142,52,Cronulla,32,Debit Card,6,Yes,Monthly,0,1,1,0,1
+124837,34,Male,60,134,Mascot,36,Mobile Payment,7,Yes,Monthly,0,1,1,1,1
+124838,72,Male,204,237,Sydney CBD,47,Credit Card,6,Yes,Weekly,1,1,1,0,1
+124839,50,Female,125,158,Randwick,26,Online Payment,5,No,Weekly,0,1,0,0,0
+124840,56,Male,80,109,Chatswood,32,Debit Card,6,No,Daily,1,1,0,1,0
+124841,37,Male,97,114,Parramatta,20,Mobile Payment,7,Yes,Daily,0,0,1,0,1
+124842,71,Male,226,281,Sydney CBD,32,Credit Card,7,Yes,Weekly,1,0,1,0,1
+124843,41,Female,97,93,Sydney CBD,21,Online Payment,6,Yes,Daily,0,0,1,0,1
+124844,57,Female,57,135,Castle Hill,35,Credit Card,7,No,Daily,0,1,0,0,0
+124845,59,Female,87,222,Sydney CBD,20,Credit Card,6,No,Weekly,1,1,1,1,1
+124846,73,Male,239,271,Bondi,77,Credit Card,7,Yes,Weekly,1,1,1,0,1
+124847,70,Female,59,102,Sydney CBD,50,Credit Card,6,Yes,Weekly,1,1,0,0,1
+124848,62,Female,121,166,Sydney CBD,32,Debit Card,8,Yes,Occasionally,0,1,0,0,1
+124849,28,Female,104,103,Parramatta,18,Online Payment,5,Yes,Daily,0,0,0,1,0
+124850,30,Male,93,114,Cronulla,31,Mobile Payment,6,Yes,Daily,1,1,0,0,1
+124851,39,Other,47,129,Chatswood,18,Mobile Payment,6,Yes,Weekly,1,0,1,1,0
+124852,69,Male,106,210,Bondi,57,Debit Card,9,Yes,Weekly,1,1,0,0,1
+124853,33,Female,161,62,Newtown,34,Mobile Payment,5,Yes,Daily,1,0,1,0,1
+124854,52,Female,126,32,Randwick,21,Credit Card,6,Yes,Daily,1,0,0,0,1
+124855,39,Female,54,96,Parramatta,12,Debit Card,7,Yes,Weekly,0,1,0,1,1
+124856,56,Female,57,145,Parramatta,24,Cash,6,Yes,Monthly,0,0,1,1,1
+124857,66,Female,71,48,Sydney CBD,30,Credit Card,6,Yes,Daily,0,1,1,1,1
+124858,33,Other,106,125,Parramatta,18,Debit Card,7,Yes,Monthly,1,0,0,0,0
+124859,68,Female,71,138,Sydney CBD,50,Credit Card,6,Yes,Weekly,1,0,0,0,0
+124860,75,Male,181,379,Hornsby,70,Mobile Payment,9,Yes,Weekly,1,1,1,0,1
+124861,76,Male,191,378,Hornsby,73,Mobile Payment,8,Yes,Monthly,1,1,0,1,0
+124862,26,Male,82,148,Randwick,32,Credit Card,7,Yes,Monthly,0,0,1,0,0
+124863,69,Male,102,145,Bondi,51,Mobile Payment,6,Yes,Weekly,0,1,0,0,1
+124864,67,Female,115,181,Hornsby,20,Mobile Payment,5,Yes,Daily,0,1,0,0,0
+124865,36,Other,82,127,Surry Hills,18,Credit Card,7,Yes,Weekly,1,1,1,0,1
+124866,63,Female,90,108,Bondi,39,Online Payment,5,Yes,Monthly,1,1,0,0,1
+124867,52,Female,113,30,Burwood,27,Credit Card,5,Yes,Weekly,0,1,1,1,0
+124868,24,Female,54,116,Parramatta,15,Credit Card,5,Yes,Weekly,1,1,1,0,0
+124869,54,Male,134,77,Cronulla,11,Mobile Payment,7,Yes,Monthly,1,0,1,1,1
+124870,37,Male,70,49,Parramatta,32,Credit Card,6,No,Monthly,0,0,1,0,1
+124871,75,Male,241,327,Hornsby,72,Mobile Payment,9,Yes,Monthly,1,1,0,1,1
+124872,46,Male,128,102,Hornsby,39,Credit Card,7,Yes,Weekly,0,0,0,1,1
+124873,22,Male,42,135,Bondi,29,Mobile Payment,6,Yes,Weekly,1,0,1,1,1
+124874,52,Female,73,103,Manly,13,Credit Card,5,Yes,Monthly,0,0,1,0,1
+124875,70,Male,190,251,Bondi,49,Credit Card,8,Yes,Weekly,1,0,1,0,0
+124876,18,Female,112,127,Hornsby,29,Mobile Payment,8,No,Weekly,1,0,0,0,0
+124877,37,Male,24,72,Newtown,26,Credit Card,7,Yes,Weekly,0,1,1,1,0
+124878,66,Female,110,125,Bondi,32,Debit Card,5,Yes,Monthly,1,0,0,0,1
+124879,60,Male,58,76,Manly,35,Mobile Payment,7,No,Weekly,1,0,0,1,1
+124880,63,Male,97,96,Manly,25,Credit Card,5,Yes,Weekly,1,0,0,1,1
+124881,32,Male,89,128,Liverpool,22,Cash,7,Yes,Daily,0,0,0,0,1
+124882,73,Male,224,218,Bondi,65,Credit Card,8,Yes,Weekly,1,1,1,0,1
+124883,47,Female,83,83,Randwick,6,Mobile Payment,6,Yes,Weekly,0,0,1,0,0
+124884,57,Female,75,132,Penrith,28,Online Payment,6,Yes,Weekly,0,1,0,0,0
+124885,23,Male,72,105,Hornsby,28,Mobile Payment,6,Yes,Weekly,1,1,1,1,1
+124886,71,Male,225,244,Manly,32,Credit Card,4,Yes,Weekly,1,0,1,0,1
+124887,55,Male,117,107,Mascot,7,Mobile Payment,5,Yes,Weekly,0,0,1,0,0
+124888,30,Male,110,157,Sydney CBD,22,Cash,5,Yes,Daily,0,0,0,1,1
+124889,58,Female,102,102,Chatswood,23,Online Payment,7,Yes,Weekly,1,1,1,0,1
+124890,59,Female,140,134,Castle Hill,46,Debit Card,6,Yes,Weekly,1,0,1,1,1
+124891,37,Male,87,51,Bondi,24,Online Payment,6,Yes,Weekly,1,1,0,1,1
+124892,70,Male,98,52,Sydney CBD,56,Credit Card,5,Yes,Weekly,1,0,0,0,1
+124893,20,Male,110,135,Newtown,22,Online Payment,5,Yes,Occasionally,1,1,0,0,0
+124894,25,Male,63,45,Liverpool,22,Debit Card,6,No,Daily,0,0,0,1,1
+124895,61,Female,101,104,Hornsby,29,Credit Card,6,No,Monthly,1,1,0,0,0
+124896,58,Female,110,76,Hornsby,33,Mobile Payment,6,Yes,Weekly,0,0,1,1,0
+124897,37,Female,113,136,Manly,19,Debit Card,5,Yes,Monthly,1,1,0,1,1
+124898,58,Female,73,150,Cronulla,31,Mobile Payment,6,Yes,Weekly,0,0,0,0,1
+124899,58,Male,149,107,Liverpool,22,Debit Card,8,Yes,Monthly,1,1,0,0,1
+124900,69,Male,95,151,Manly,45,Credit Card,7,Yes,Weekly,0,0,0,0,1
+124901,32,Male,104,82,Parramatta,38,Online Payment,5,Yes,Monthly,0,1,1,1,1
+124902,43,Male,93,165,Chatswood,28,Credit Card,5,Yes,Monthly,0,0,1,1,1
+124903,56,Male,149,158,Castle Hill,22,Mobile Payment,7,No,Weekly,0,0,0,0,0
+124904,24,Female,58,183,Manly,25,Credit Card,6,No,Daily,1,0,1,1,0
+124905,31,Female,146,101,Parramatta,28,Debit Card,7,Yes,Monthly,1,0,0,1,1
+124906,72,Male,229,248,Sydney CBD,70,Credit Card,6,Yes,Weekly,1,1,1,0,1
+124907,26,Male,49,142,Liverpool,35,Mobile Payment,4,No,Daily,0,0,1,0,0
+124908,35,Female,104,149,Randwick,30,Online Payment,4,No,Monthly,0,0,0,1,1
+124909,27,Male,92,166,Bondi,35,Cash,6,No,Daily,0,1,0,0,0
+124910,55,Male,119,98,Burwood,32,Debit Card,5,Yes,Daily,1,0,1,1,0
+124911,40,Male,101,140,Surry Hills,20,Credit Card,6,No,Daily,0,1,0,1,0
+124912,64,Male,113,62,Manly,18,Online Payment,6,Yes,Monthly,0,1,1,1,1
+124913,61,Male,39,100,Sydney CBD,27,Cash,7,No,Weekly,0,1,1,0,0
+124914,73,Male,213,257,Sydney CBD,82,Credit Card,9,Yes,Weekly,1,1,1,0,1
+124915,29,Female,77,129,Parramatta,21,Debit Card,6,No,Monthly,0,1,0,1,0
+124916,46,Male,116,176,Surry Hills,15,Cash,6,No,Daily,0,1,1,1,0
+124917,45,Female,124,131,Parramatta,31,Cash,5,No,Weekly,1,0,0,1,0
+124918,21,Male,81,128,Mascot,27,Mobile Payment,6,Yes,Daily,1,0,0,0,1
+124919,68,Female,61,76,Sydney CBD,26,Credit Card,5,Yes,Weekly,0,1,0,0,0
+124920,68,Female,49,92,Hornsby,22,Mobile Payment,7,Yes,Weekly,1,1,0,0,0
+124921,52,Female,88,94,Manly,29,Debit Card,5,Yes,Monthly,0,1,1,0,1
+124922,53,Female,112,94,Manly,34,Debit Card,6,No,Daily,0,0,0,0,0
+124923,34,Female,109,174,Surry Hills,24,Credit Card,7,No,Weekly,1,0,1,0,0
+124924,26,Other,76,70,Surry Hills,32,Credit Card,7,Yes,Weekly,1,0,0,0,0
+124925,46,Male,95,133,Randwick,21,Cash,6,Yes,Monthly,1,1,1,0,1
+124926,39,Female,106,254,Randwick,27,Credit Card,7,Yes,Daily,1,0,1,0,0
+124927,67,Male,52,170,Bondi,35,Mobile Payment,4,Yes,Weekly,1,0,1,1,1
+124928,25,Female,95,100,Penrith,36,Cash,4,No,Weekly,1,0,1,0,0
+124929,57,Male,101,126,Chatswood,18,Credit Card,6,Yes,Daily,1,0,1,0,1
+124930,42,Female,60,114,Blacktown,16,Online Payment,6,No,Daily,1,0,1,1,0
+124931,51,Male,74,109,Parramatta,28,Gift Card,6,Yes,Monthly,0,1,1,1,1
+124932,18,Female,63,11,Parramatta,3,Mobile Payment,4,No,Weekly,1,0,0,0,0
+124933,18,Male,92,13,Randwick,5,Gift Card,5,Yes,Weekly,1,0,0,0,0
+124934,52,Male,80,140,Randwick,37,Debit Card,5,Yes,Daily,0,0,0,0,0
+124935,43,Male,70,79,Liverpool,10,Debit Card,7,Yes,Monthly,0,0,0,0,0
+124936,37,Male,128,87,Burwood,11,Credit Card,7,Yes,Daily,1,1,1,1,0
+124937,28,Female,83,126,Hornsby,41,Mobile Payment,6,No,Monthly,0,1,1,1,1
+124938,48,Female,84,90,Sydney CBD,32,Cash,5,Yes,Weekly,0,0,0,0,1
+124939,30,Female,91,171,Bondi,32,Mobile Payment,6,Yes,Weekly,0,0,0,1,1
+124940,39,Male,109,158,Sydney CBD,20,Credit Card,5,No,Weekly,1,1,0,1,0
+124941,59,Other,98,131,Blacktown,26,Debit Card,5,Yes,Occasionally,0,0,0,0,1
+124942,69,Female,114,105,Bondi,38,Gift Card,6,Yes,Weekly,1,1,0,0,1
+124943,58,Male,49,131,Hornsby,24,Credit Card,5,Yes,Weekly,1,1,1,0,1
+124944,51,Male,61,117,Newtown,3,Credit Card,6,Yes,Weekly,0,0,0,1,1
+124945,51,Female,85,176,Newtown,27,Gift Card,5,Yes,Weekly,1,0,1,0,0
+124946,74,Male,193,391,Manly,70,Mobile Payment,8,Yes,Weekly,1,1,1,0,1
+124947,58,Male,108,98,Parramatta,26,Debit Card,6,Yes,Occasionally,1,0,1,0,1
+124948,28,Female,118,168,Blacktown,32,Credit Card,5,Yes,Weekly,1,1,0,0,0
+124949,58,Male,104,150,Castle Hill,35,Mobile Payment,7,Yes,Weekly,0,1,0,1,1
+124950,27,Male,117,139,Hornsby,19,Debit Card,6,Yes,Daily,0,1,1,0,1
+124951,38,Female,105,175,Parramatta,0,Mobile Payment,8,No,Occasionally,1,0,0,0,0
+124952,68,Male,136,73,Manly,56,Online Payment,7,Yes,Weekly,0,1,0,0,0
+124953,44,Female,96,94,Parramatta,11,Credit Card,6,Yes,Weekly,0,0,0,0,1
+124954,49,Male,82,168,Cronulla,25,Debit Card,6,Yes,Daily,0,0,1,0,0
+124955,22,Male,69,141,Mascot,31,Online Payment,5,No,Weekly,1,0,0,1,1
+124956,51,Male,72,112,Chatswood,31,Gift Card,6,No,Daily,1,1,1,0,0
+124957,34,Female,86,128,Manly,35,Debit Card,6,No,Weekly,1,1,0,1,1
+124958,70,Female,134,60,Manly,59,Credit Card,7,Yes,Weekly,0,1,0,0,1
+124959,25,Female,52,115,Hornsby,29,Debit Card,5,No,Daily,1,1,0,1,1
+124960,52,Male,61,106,Burwood,19,Credit Card,5,No,Monthly,1,0,0,0,0
+124961,38,Female,88,205,Sydney CBD,21,Cash,8,Yes,Daily,1,1,1,0,0
+124962,34,Female,85,31,Sydney CBD,33,Debit Card,6,Yes,Monthly,1,0,1,1,1
+124963,43,Female,83,168,Blacktown,32,Gift Card,5,Yes,Daily,1,0,0,0,1
+124964,43,Female,154,117,Burwood,24,Credit Card,6,Yes,Weekly,1,0,1,0,0
+124965,43,Male,49,188,Mascot,23,Cash,4,No,Monthly,1,1,1,0,1
+124966,49,Female,85,60,Sydney CBD,35,Mobile Payment,6,Yes,Monthly,0,1,0,0,1
+124967,49,Female,130,199,Randwick,30,Mobile Payment,5,Yes,Weekly,0,1,1,1,0
+124968,66,Male,90,128,Hornsby,9,Mobile Payment,3,Yes,Weekly,0,1,1,1,0
+124969,72,Male,243,261,Sydney CBD,47,Credit Card,6,Yes,Weekly,1,1,1,0,1
+124970,42,Female,127,88,Castle Hill,40,Cash,5,Yes,Monthly,1,0,0,1,1
+124971,75,Male,188,396,Hornsby,65,Mobile Payment,9,Yes,Monthly,1,1,0,1,1
+124972,59,Male,59,107,Hornsby,32,Credit Card,6,No,Daily,1,1,0,0,0
+124973,69,Female,134,48,Hornsby,47,Credit Card,5,Yes,Weekly,1,0,0,0,1
+124974,66,Male,75,141,Sydney CBD,15,Debit Card,6,Yes,Daily,0,0,1,1,0
+124975,36,Male,97,97,Chatswood,29,Debit Card,5,Yes,Daily,1,0,1,0,0
+124976,62,Female,69,27,Sydney CBD,22,Cash,6,No,Weekly,1,0,0,0,0
+124977,67,Female,106,93,Manly,33,Cash,6,Yes,Daily,0,1,0,1,1
+124978,70,Female,84,126,Bondi,61,Credit Card,5,Yes,Weekly,0,1,0,0,0
+124979,20,Female,111,123,Surry Hills,41,Credit Card,5,Yes,Daily,1,1,1,0,0
+124980,25,Male,105,121,Burwood,23,Debit Card,6,Yes,Weekly,1,1,1,0,1
+124981,21,Female,35,105,Randwick,38,Debit Card,6,No,Weekly,1,1,0,0,0
+124982,32,Female,157,109,Sydney CBD,21,Debit Card,7,No,Daily,1,0,1,1,0
+124983,45,Female,108,3,Burwood,29,Debit Card,5,Yes,Weekly,0,1,1,1,1
+124984,42,Female,62,26,Penrith,14,Cash,5,Yes,Weekly,1,1,0,1,0
+124985,63,Male,108,81,Hornsby,29,Credit Card,5,Yes,Weekly,0,1,0,1,0
+124986,48,Female,108,4,Liverpool,25,Gift Card,5,No,Monthly,0,0,0,1,1
+124987,50,Male,84,90,Surry Hills,29,Mobile Payment,6,No,Occasionally,0,0,0,0,0
+124988,55,Male,69,127,Surry Hills,25,Gift Card,7,Yes,Monthly,1,0,0,0,0
+124989,73,Male,246,297,Sydney CBD,71,Credit Card,7,Yes,Weekly,1,1,1,0,1
+124990,47,Female,35,116,Blacktown,27,Gift Card,6,Yes,Daily,1,0,1,1,0
+124991,58,Male,96,108,Burwood,22,Mobile Payment,6,No,Weekly,0,1,0,0,1
+124992,26,Female,49,123,Hornsby,24,Credit Card,5,Yes,Weekly,0,1,0,1,1
+124993,19,Male,91,76,Burwood,29,Cash,8,Yes,Monthly,1,1,1,0,0
+124994,70,Female,53,164,Manly,47,Credit Card,6,Yes,Weekly,0,1,0,0,0
+124995,25,Male,33,109,Newtown,26,Credit Card,4,Yes,Weekly,1,0,1,1,1
+124996,36,Female,83,4,Penrith,30,Mobile Payment,5,Yes,Weekly,1,0,1,0,0
+124997,38,Male,85,67,Surry Hills,26,Debit Card,6,Yes,Daily,1,0,1,1,0
+124998,60,Male,51,230,Sydney CBD,13,Credit Card,8,Yes,Monthly,0,0,0,1,1
+124999,61,Female,88,104,Manly,22,Credit Card,6,Yes,Daily,0,0,1,1,0
+125000,67,Other,70,110,Hornsby,30,Debit Card,6,Yes,Daily,0,0,1,1,1
+125001,53,Male,66,94,Bondi,19,Cash,5,Yes,Daily,1,0,1,0,1
+125002,36,Female,94,36,Hornsby,37,Credit Card,5,No,Weekly,1,1,0,1,1
+125003,20,Female,85,69,Manly,8,Gift Card,6,No,Weekly,1,1,0,0,0
+125004,23,Male,108,77,Parramatta,41,Mobile Payment,6,No,Weekly,1,1,1,1,0
+125005,33,Male,9,131,Surry Hills,53,Gift Card,7,Yes,Weekly,0,0,1,0,1
+125006,59,Female,103,133,Randwick,30,Gift Card,6,Yes,Weekly,1,0,1,0,0
+125007,29,Female,49,218,Sydney CBD,30,Mobile Payment,6,No,Monthly,1,0,1,0,1
+125008,28,Male,60,47,Mascot,19,Gift Card,6,No,Weekly,0,1,1,1,0
+125009,49,Male,98,112,Blacktown,19,Credit Card,6,No,Monthly,0,1,1,0,1
+125010,75,Male,233,431,Sydney CBD,73,Mobile Payment,10,Yes,Weekly,1,1,1,0,1
+125011,73,Male,187,192,Manly,76,Credit Card,9,Yes,Weekly,1,1,1,0,1
+125012,50,Male,96,118,Randwick,33,Credit Card,6,No,Monthly,1,0,1,0,1
+125013,31,Male,90,182,Blacktown,15,Credit Card,6,Yes,Occasionally,1,1,1,0,1
+125014,25,Male,85,77,Randwick,20,Online Payment,7,Yes,Weekly,1,1,1,1,1
+125015,71,Male,220,231,Manly,36,Credit Card,6,Yes,Weekly,1,0,1,0,1
+125016,67,Female,33,144,Hornsby,35,Gift Card,7,Yes,Occasionally,0,1,1,0,1
+125017,23,Male,109,150,Mascot,19,Debit Card,5,Yes,Daily,1,1,0,1,1
+125018,72,Male,228,282,Bondi,64,Credit Card,6,Yes,Weekly,1,1,1,0,1
+125019,59,Female,118,73,Castle Hill,22,Cash,7,No,Monthly,1,0,1,1,0
+125020,30,Male,69,127,Cronulla,27,Mobile Payment,5,Yes,Monthly,0,0,0,1,1
+125021,46,Male,105,112,Liverpool,23,Gift Card,7,Yes,Occasionally,0,1,1,0,1
+125022,60,Male,121,98,Randwick,26,Debit Card,6,No,Weekly,1,1,0,0,0
+125023,68,Male,109,45,Sydney CBD,22,Debit Card,6,Yes,Weekly,0,1,0,0,0
+125024,31,Female,113,134,Sydney CBD,29,Gift Card,8,No,Weekly,1,1,1,0,1
+125025,18,Male,92,14,Parramatta,5,Credit Card,8,Yes,Daily,1,0,0,0,0
+125026,62,Female,96,73,Bondi,21,Credit Card,6,No,Monthly,1,0,0,1,0
+125027,50,Female,34,150,Hornsby,22,Online Payment,6,No,Monthly,0,1,0,0,1
+125028,74,Male,222,317,Manly,75,Mobile Payment,9,Yes,Weekly,1,1,1,0,1
+125029,57,Female,109,146,Liverpool,36,Gift Card,6,No,Weekly,1,0,0,0,0
+125030,64,Male,94,140,Sydney CBD,24,Credit Card,6,Yes,Weekly,1,1,1,1,1
+125031,28,Male,130,36,Hornsby,36,Credit Card,6,Yes,Weekly,0,0,1,1,1
+125032,72,Male,187,211,Hornsby,62,Credit Card,6,Yes,Weekly,1,1,1,0,1
+125033,51,Male,71,113,Randwick,18,Debit Card,5,No,Daily,1,0,0,1,0
+125034,33,Female,101,146,Manly,13,Mobile Payment,6,Yes,Occasionally,0,1,1,1,1
+125035,24,Male,103,75,Surry Hills,37,Mobile Payment,7,Yes,Monthly,0,0,0,1,0
+125036,34,Male,71,86,Penrith,28,Online Payment,5,No,Weekly,0,0,1,1,0
+125037,24,Female,51,159,Randwick,19,Gift Card,6,Yes,Occasionally,0,1,0,1,0
+125038,43,Female,98,67,Randwick,19,Credit Card,6,No,Weekly,0,0,1,0,0
+125039,24,Female,94,106,Castle Hill,18,Credit Card,6,Yes,Occasionally,1,1,0,0,1
+125040,22,Female,55,117,Parramatta,20,Cash,7,Yes,Monthly,1,1,1,1,1
+125041,57,Female,79,162,Surry Hills,22,Credit Card,6,Yes,Occasionally,0,0,0,0,0
+125042,27,Female,57,53,Parramatta,20,Credit Card,5,Yes,Occasionally,0,0,1,1,1
+125043,30,Male,59,167,Castle Hill,11,Debit Card,7,No,Daily,0,0,1,1,0
+125044,59,Male,8,98,Burwood,26,Debit Card,6,No,Daily,0,0,0,0,0
+125045,23,Female,80,131,Penrith,26,Gift Card,6,No,Weekly,0,1,1,1,1
+125046,66,Male,91,124,Bondi,21,Mobile Payment,7,No,Weekly,0,0,0,1,1
+125047,29,Male,94,117,Castle Hill,25,Online Payment,5,Yes,Daily,1,0,1,1,0
+125048,42,Female,146,107,Mascot,11,Credit Card,5,Yes,Daily,0,1,0,1,1
+125049,61,Female,132,105,Sydney CBD,27,Credit Card,7,Yes,Weekly,0,0,1,1,0
+125050,43,Male,98,170,Manly,27,Debit Card,5,Yes,Weekly,0,1,0,0,0
+125051,23,Female,99,110,Castle Hill,31,Mobile Payment,6,Yes,Weekly,1,1,1,1,1
+125052,29,Other,111,202,Mascot,18,Credit Card,6,Yes,Daily,0,0,1,1,0
+125053,40,Female,36,178,Blacktown,30,Gift Card,6,No,Monthly,0,1,0,1,0
+125054,18,Male,113,10,Sydney CBD,7,Gift Card,8,Yes,Daily,1,0,1,0,0
+125055,52,Male,101,61,Parramatta,17,Mobile Payment,6,Yes,Monthly,1,1,1,0,0
+125056,26,Female,127,78,Chatswood,42,Credit Card,6,Yes,Monthly,0,0,0,0,1
+125057,58,Male,111,114,Chatswood,22,Online Payment,6,Yes,Monthly,1,0,1,0,1
+125058,31,Female,101,109,Burwood,12,Debit Card,7,Yes,Weekly,1,0,0,0,1
+125059,72,Male,231,234,Hornsby,51,Credit Card,6,Yes,Weekly,1,1,1,0,1
+125060,56,Other,97,161,Burwood,20,Online Payment,4,No,Daily,1,1,1,1,1
+125061,31,Male,86,80,Bondi,23,Debit Card,7,No,Occasionally,1,1,1,0,1
+125062,53,Female,127,85,Bondi,31,Mobile Payment,5,Yes,Weekly,0,1,0,0,1
+125063,32,Female,108,36,Surry Hills,24,Cash,5,No,Weekly,0,1,1,0,0
+125064,22,Female,107,76,Bondi,32,Mobile Payment,7,Yes,Monthly,1,1,0,1,1
+125065,75,Male,191,322,Bondi,69,Mobile Payment,9,Yes,Monthly,1,1,0,1,1
+125066,76,Male,206,354,Manly,69,Mobile Payment,7,Yes,Monthly,1,1,0,1,0
+125067,49,Female,104,140,Newtown,22,Credit Card,6,Yes,Weekly,1,0,1,1,1
+125068,21,Male,97,126,Manly,34,Debit Card,6,Yes,Monthly,1,1,1,0,1
+125069,60,Male,135,147,Surry Hills,22,Gift Card,6,No,Daily,0,1,0,0,0
+125070,53,Female,115,88,Parramatta,27,Online Payment,5,No,Occasionally,1,0,0,0,1
+125071,23,Other,125,117,Blacktown,22,Mobile Payment,7,Yes,Occasionally,1,0,0,1,1
+125072,20,Male,144,168,Castle Hill,20,Debit Card,5,No,Monthly,1,1,1,0,1
+125073,26,Female,63,143,Chatswood,19,Credit Card,6,Yes,Weekly,0,1,1,0,0
+125074,32,Male,93,137,Randwick,30,Gift Card,7,No,Monthly,1,0,1,1,0
+125075,55,Other,109,119,Bondi,32,Gift Card,6,Yes,Monthly,1,1,1,1,0
+125076,53,Male,109,90,Blacktown,30,Mobile Payment,6,No,Daily,1,0,1,1,0
+125077,28,Male,115,120,Sydney CBD,24,Credit Card,7,Yes,Monthly,1,1,1,1,0
+125078,26,Male,46,138,Penrith,28,Mobile Payment,7,No,Daily,0,1,0,0,0
+125079,25,Male,107,92,Chatswood,35,Debit Card,6,No,Daily,0,1,1,1,0
+125080,68,Female,93,259,Hornsby,24,Mobile Payment,6,Yes,Weekly,0,1,0,0,0
+125081,29,Male,92,115,Burwood,34,Mobile Payment,7,No,Monthly,0,0,1,1,1
+125082,67,Female,109,73,Hornsby,22,Mobile Payment,6,Yes,Monthly,0,1,0,0,0
+125083,28,Male,115,125,Castle Hill,25,Debit Card,7,Yes,Weekly,0,0,1,1,1
+125084,19,Female,98,176,Blacktown,17,Credit Card,6,Yes,Daily,1,1,1,0,0
+125085,51,Female,102,160,Chatswood,36,Credit Card,6,Yes,Monthly,0,1,0,1,0
+125086,39,Male,86,69,Bondi,28,Mobile Payment,5,Yes,Daily,1,0,1,0,0
+125087,48,Female,41,112,Chatswood,25,Mobile Payment,5,No,Weekly,1,1,1,1,0
+125088,51,Male,108,119,Sydney CBD,25,Online Payment,5,No,Monthly,1,1,0,1,0
+125089,50,Male,109,145,Parramatta,19,Cash,7,Yes,Weekly,0,1,0,0,1
+125090,48,Male,80,20,Sydney CBD,8,Mobile Payment,7,No,Weekly,0,1,0,0,1
+125091,45,Male,67,111,Mascot,31,Debit Card,5,No,Daily,0,0,1,0,0
+125092,73,Male,228,231,Bondi,77,Credit Card,8,Yes,Weekly,1,1,1,0,1
+125093,44,Male,86,190,Castle Hill,11,Cash,6,No,Monthly,0,0,1,0,1
+125094,57,Female,78,109,Castle Hill,41,Debit Card,7,Yes,Weekly,0,0,0,0,0
+125095,32,Male,101,125,Newtown,20,Mobile Payment,5,No,Occasionally,0,0,0,0,1
+125096,57,Female,49,143,Newtown,26,Online Payment,6,Yes,Occasionally,1,0,1,1,0
+125097,21,Male,98,136,Blacktown,13,Cash,6,No,Occasionally,1,1,1,0,1
+125098,41,Male,100,2,Cronulla,29,Credit Card,6,No,Weekly,0,1,1,1,1
+125099,63,Other,101,166,Hornsby,30,Gift Card,6,No,Weekly,0,0,1,1,1
+125100,18,Female,72,9,Castle Hill,5,Debit Card,4,No,Weekly,1,0,1,0,0
+125101,59,Male,133,41,Blacktown,18,Mobile Payment,6,Yes,Monthly,0,0,0,0,0
+125102,28,Male,145,136,Parramatta,20,Mobile Payment,6,Yes,Weekly,1,1,1,1,1
+125103,58,Female,84,115,Parramatta,41,Mobile Payment,5,Yes,Daily,1,1,0,0,1
+125104,54,Male,129,78,Penrith,32,Debit Card,7,Yes,Monthly,0,1,1,0,1
+125105,68,Male,77,60,Hornsby,29,Gift Card,8,Yes,Weekly,0,1,0,0,0
+125106,64,Male,52,99,Manly,26,Gift Card,5,No,Weekly,0,1,1,0,0
+125107,76,Male,241,467,Hornsby,73,Mobile Payment,10,Yes,Monthly,1,1,0,1,0
+125108,29,Male,83,110,Randwick,27,Cash,6,Yes,Weekly,0,1,0,1,1
+125109,38,Male,88,144,Cronulla,20,Cash,5,Yes,Weekly,1,1,0,0,1
+125110,67,Male,69,122,Manly,16,Mobile Payment,5,Yes,Monthly,0,1,0,0,1
+125111,45,Female,110,80,Manly,36,Credit Card,5,Yes,Weekly,1,0,1,0,1
+125112,40,Male,84,147,Blacktown,24,Credit Card,8,No,Monthly,0,0,1,0,0
+125113,67,Female,95,146,Bondi,22,Mobile Payment,6,Yes,Monthly,0,0,0,1,0
+125114,48,Male,82,135,Parramatta,13,Mobile Payment,6,No,Monthly,0,1,0,1,0
+125115,64,Male,109,97,Sydney CBD,45,Online Payment,6,Yes,Monthly,0,1,0,0,0
+125116,25,Female,93,49,Manly,27,Gift Card,7,No,Daily,1,1,1,1,1
+125117,63,Male,108,132,Bondi,35,Debit Card,8,No,Monthly,0,1,1,0,1
+125118,70,Male,76,114,Sydney CBD,53,Credit Card,6,Yes,Weekly,1,0,0,0,0
+125119,44,Female,111,129,Bondi,32,Credit Card,5,No,Weekly,1,0,1,0,0
+125120,60,Male,48,81,Chatswood,21,Gift Card,6,Yes,Weekly,0,0,1,1,1
+125121,27,Other,126,9,Hornsby,23,Debit Card,6,No,Monthly,1,0,1,0,1
+125122,48,Male,90,149,Blacktown,26,Gift Card,4,Yes,Occasionally,1,1,1,1,0
+125123,31,Female,95,105,Castle Hill,22,Mobile Payment,6,Yes,Daily,1,1,0,0,0
+125124,34,Female,75,150,Manly,13,Credit Card,7,Yes,Daily,0,1,1,1,0
+125125,49,Female,156,251,Chatswood,14,Mobile Payment,7,No,Weekly,1,1,0,1,1
+125126,75,Male,241,399,Sydney CBD,79,Mobile Payment,6,Yes,Weekly,1,1,1,0,1
+125127,54,Male,64,175,Sydney CBD,33,Gift Card,6,Yes,Occasionally,1,1,0,1,0
+125128,22,Male,140,114,Parramatta,25,Mobile Payment,6,No,Weekly,1,1,0,1,1
+125129,60,Female,71,139,Manly,16,Credit Card,6,No,Weekly,1,1,0,1,1
+125130,36,Male,125,141,Hornsby,11,Credit Card,6,No,Weekly,1,0,0,0,0
+125131,58,Other,59,130,Randwick,21,Gift Card,6,Yes,Monthly,0,1,1,1,1
+125132,35,Female,105,77,Parramatta,35,Gift Card,6,Yes,Weekly,0,0,0,0,0
+125133,66,Male,134,143,Sydney CBD,26,Mobile Payment,7,Yes,Monthly,0,1,1,1,0
+125134,50,Other,111,151,Chatswood,30,Online Payment,6,No,Monthly,1,0,0,0,1
+125135,25,Male,119,15,Randwick,22,Credit Card,7,Yes,Weekly,0,1,1,0,0
+125136,22,Female,121,83,Penrith,25,Credit Card,5,Yes,Weekly,1,1,0,1,0
+125137,71,Male,207,239,Bondi,54,Credit Card,7,Yes,Weekly,1,0,1,0,0
+125138,41,Male,82,129,Castle Hill,24,Credit Card,5,Yes,Occasionally,1,0,0,1,0
+125139,62,Male,99,238,Manly,9,Cash,5,Yes,Weekly,0,1,1,1,1
+125140,18,Male,93,17,Sydney CBD,1,Mobile Payment,7,No,Monthly,1,0,1,0,0
+125141,40,Male,74,62,Blacktown,20,Online Payment,8,No,Daily,0,1,0,1,0
+125142,61,Other,93,100,Manly,21,Debit Card,5,Yes,Monthly,1,0,0,1,1
+125143,56,Female,69,116,Castle Hill,23,Online Payment,6,Yes,Occasionally,0,0,1,1,0
+125144,30,Other,110,143,Parramatta,16,Credit Card,6,Yes,Monthly,0,1,0,1,0
+125145,35,Female,94,193,Surry Hills,34,Credit Card,6,Yes,Monthly,1,1,0,1,0
+125146,42,Male,70,24,Castle Hill,18,Cash,7,No,Weekly,0,0,0,0,1
+125147,22,Female,93,92,Castle Hill,18,Online Payment,6,Yes,Weekly,1,1,1,1,0
+125148,68,Female,101,82,Bondi,39,Debit Card,7,Yes,Weekly,0,0,0,0,1
+125149,51,Male,78,127,Hornsby,26,Credit Card,6,Yes,Weekly,1,0,0,0,1
+125150,65,Male,115,125,Bondi,33,Debit Card,5,Yes,Occasionally,0,1,1,1,0
+125151,53,Male,102,88,Castle Hill,32,Debit Card,6,No,Occasionally,1,1,1,0,1
+125152,53,Male,61,133,Blacktown,17,Online Payment,6,No,Occasionally,1,0,1,0,1
+125153,53,Male,77,116,Burwood,25,Mobile Payment,8,No,Weekly,1,0,1,1,0
+125154,21,Male,59,114,Parramatta,22,Online Payment,6,Yes,Occasionally,1,0,1,0,0
+125155,61,Male,79,125,Sydney CBD,26,Credit Card,5,Yes,Weekly,0,0,0,1,0
+125156,72,Male,213,252,Sydney CBD,54,Credit Card,6,Yes,Weekly,1,1,1,0,1
+125157,40,Female,112,63,Penrith,18,Mobile Payment,5,No,Daily,0,1,0,1,0
+125158,23,Male,37,117,Blacktown,40,Online Payment,6,Yes,Weekly,1,1,0,1,0
+125159,59,Male,40,42,Parramatta,10,Mobile Payment,6,Yes,Weekly,0,0,0,0,1
+125160,76,Male,204,432,Sydney CBD,74,Mobile Payment,8,Yes,Monthly,1,1,0,1,0
+125161,50,Female,116,187,Sydney CBD,22,Debit Card,7,Yes,Occasionally,1,0,1,1,0
+125162,67,Male,117,85,Bondi,23,Debit Card,7,Yes,Weekly,0,0,0,0,1
+125163,63,Male,106,65,Hornsby,22,Credit Card,6,Yes,Occasionally,0,1,1,1,1
+125164,18,Male,81,17,Sydney CBD,5,Credit Card,7,Yes,Daily,1,0,0,0,0
+125165,65,Female,122,185,Hornsby,27,Cash,6,Yes,Daily,1,0,1,1,0
+125166,59,Female,100,101,Hornsby,24,Mobile Payment,6,Yes,Weekly,1,1,0,1,0
+125167,56,Female,154,118,Chatswood,13,Credit Card,4,Yes,Weekly,1,0,1,1,0
+125168,53,Male,139,51,Surry Hills,18,Credit Card,8,Yes,Weekly,1,0,1,1,0
+125169,61,Female,30,142,Manly,32,Online Payment,6,Yes,Weekly,0,1,1,0,0
+125170,74,Male,225,336,Sydney CBD,80,Mobile Payment,8,Yes,Weekly,1,1,1,0,1
+125171,67,Female,76,120,Manly,30,Cash,6,Yes,Monthly,0,0,0,0,0
+125172,55,Female,98,179,Manly,27,Credit Card,7,No,Daily,0,0,0,1,0
+125173,25,Male,48,91,Parramatta,30,Online Payment,6,Yes,Weekly,0,1,1,1,1
+125174,23,Female,103,128,Surry Hills,14,Debit Card,8,No,Daily,0,1,1,1,0
+125175,55,Female,119,129,Randwick,26,Cash,7,Yes,Monthly,0,1,1,0,0
+125176,64,Male,77,143,Hornsby,24,Credit Card,5,Yes,Weekly,0,1,0,1,1
+125177,36,Male,89,134,Hornsby,44,Debit Card,4,No,Weekly,1,1,0,0,1
+125178,42,Male,80,93,Sydney CBD,30,Debit Card,7,Yes,Occasionally,0,1,0,0,1
+125179,30,Male,111,163,Parramatta,26,Credit Card,6,Yes,Weekly,1,1,0,1,0
+125180,70,Male,188,246,Manly,48,Credit Card,6,Yes,Weekly,1,0,1,0,0
+125181,18,Male,152,24,Sydney CBD,4,Mobile Payment,5,No,Monthly,1,0,1,0,0
+125182,30,Male,101,115,Manly,23,Cash,6,Yes,Daily,1,1,1,1,1
+125183,40,Male,78,168,Parramatta,34,Credit Card,5,No,Weekly,0,0,0,1,0
+125184,50,Female,65,69,Newtown,33,Credit Card,6,No,Weekly,1,0,1,0,1
+125185,59,Male,153,149,Hornsby,23,Debit Card,6,No,Weekly,0,0,0,0,1
+125186,44,Female,76,57,Parramatta,15,Mobile Payment,5,Yes,Monthly,1,1,0,1,0
+125187,24,Male,91,161,Bondi,36,Credit Card,6,Yes,Daily,0,1,0,1,1
+125188,63,Female,85,117,Sydney CBD,35,Credit Card,7,Yes,Monthly,0,0,0,1,0
+125189,27,Male,88,140,Blacktown,16,Online Payment,6,No,Weekly,1,1,0,1,1
+125190,63,Female,113,119,Bondi,19,Gift Card,8,Yes,Weekly,0,0,0,1,1
+125191,35,Male,53,97,Mascot,28,Credit Card,5,No,Weekly,0,1,1,1,1
+125192,74,Male,238,432,Sydney CBD,81,Mobile Payment,11,Yes,Weekly,1,1,1,0,1
+125193,54,Male,69,19,Newtown,21,Debit Card,6,Yes,Weekly,1,1,0,1,1
+125194,70,Female,61,131,Manly,62,Credit Card,8,Yes,Weekly,0,1,0,0,0
+125195,40,Female,116,103,Surry Hills,25,Credit Card,6,No,Daily,0,0,1,1,0
+125196,35,Female,128,118,Castle Hill,25,Cash,5,Yes,Daily,1,1,0,0,0
+125197,71,Male,220,282,Hornsby,56,Credit Card,4,Yes,Weekly,1,0,1,0,0
+125198,23,Female,62,191,Randwick,27,Cash,5,No,Weekly,1,1,1,1,0
+125199,47,Male,96,65,Sydney CBD,20,Debit Card,6,Yes,Weekly,1,0,0,1,1
+125200,20,Female,83,147,Manly,15,Mobile Payment,8,Yes,Daily,1,1,1,0,0
+125201,68,Female,101,114,Manly,31,Debit Card,8,Yes,Weekly,0,0,0,0,1
+125202,61,Female,111,74,Sydney CBD,31,Credit Card,6,Yes,Monthly,0,0,1,1,0
+125203,52,Male,80,149,Bondi,29,Mobile Payment,5,Yes,Monthly,1,1,1,1,0
+125204,32,Male,93,95,Manly,30,Debit Card,7,Yes,Monthly,0,1,1,0,0
+125205,42,Male,127,134,Parramatta,20,Cash,5,Yes,Weekly,0,0,0,0,0
+125206,65,Male,82,114,Bondi,31,Mobile Payment,6,Yes,Weekly,1,0,1,1,1
+125207,60,Male,45,126,Manly,25,Debit Card,6,No,Weekly,0,0,1,1,1
+125208,30,Male,51,68,Cronulla,30,Credit Card,6,No,Daily,1,0,1,0,1
+125209,70,Female,139,241,Manly,47,Credit Card,6,Yes,Weekly,0,1,0,0,1
+125210,53,Male,111,117,Newtown,29,Debit Card,7,Yes,Occasionally,0,1,0,0,0
+125211,40,Female,73,180,Liverpool,31,Mobile Payment,5,No,Occasionally,1,1,0,1,1
+125212,47,Male,87,115,Randwick,17,Online Payment,5,No,Weekly,0,1,0,0,1
+125213,54,Female,109,103,Sydney CBD,18,Credit Card,6,Yes,Occasionally,1,0,0,1,0
+125214,51,Female,113,170,Parramatta,23,Debit Card,7,Yes,Weekly,0,0,0,0,0
+125215,35,Female,96,166,Liverpool,21,Credit Card,6,No,Monthly,0,0,0,0,1
+125216,47,Male,45,85,Chatswood,28,Debit Card,5,No,Weekly,0,1,0,1,1
+125217,52,Male,116,189,Surry Hills,26,Mobile Payment,6,Yes,Monthly,1,1,1,1,0
+125218,37,Male,54,168,Penrith,28,Debit Card,7,No,Daily,1,1,1,1,0
+125219,58,Female,104,73,Hornsby,31,Online Payment,7,No,Monthly,0,0,1,0,1
+125220,60,Female,35,68,Sydney CBD,24,Credit Card,7,No,Occasionally,0,1,1,1,1
+125221,26,Female,147,70,Castle Hill,36,Debit Card,6,Yes,Weekly,1,0,1,0,0
+125222,66,Male,139,184,Manly,32,Credit Card,4,Yes,Weekly,0,0,1,1,0
+125223,44,Male,96,127,Castle Hill,28,Debit Card,6,Yes,Monthly,0,1,1,0,1
+125224,36,Female,60,184,Parramatta,28,Debit Card,6,Yes,Weekly,1,0,0,1,0
+125225,38,Male,111,167,Surry Hills,31,Gift Card,5,No,Daily,1,1,0,0,1
+125226,60,Other,84,181,Randwick,21,Debit Card,7,Yes,Weekly,1,0,1,0,1
+125227,43,Other,96,67,Burwood,10,Mobile Payment,6,Yes,Weekly,0,1,1,0,1
+125228,24,Female,88,183,Randwick,24,Online Payment,7,No,Weekly,1,1,1,0,0
+125229,55,Male,143,150,Cronulla,0,Gift Card,6,Yes,Monthly,1,0,0,1,1
+125230,53,Male,65,39,Chatswood,26,Online Payment,6,Yes,Daily,0,0,1,1,1
+125231,75,Male,249,313,Sydney CBD,70,Mobile Payment,9,Yes,Weekly,1,1,1,0,1
+125232,54,Female,101,126,Newtown,39,Debit Card,7,Yes,Weekly,0,0,0,0,0
+125233,56,Male,54,147,Mascot,27,Mobile Payment,7,No,Monthly,1,0,1,1,1
+125234,20,Female,88,19,Bondi,29,Gift Card,6,No,Occasionally,1,1,1,0,0
+125235,53,Female,106,137,Parramatta,25,Mobile Payment,6,No,Daily,0,1,1,1,0
+125236,51,Male,88,86,Newtown,25,Online Payment,6,No,Weekly,1,0,0,0,1
+125237,21,Female,63,82,Randwick,33,Cash,6,Yes,Weekly,1,1,1,1,1
+125238,49,Female,129,85,Mascot,30,Gift Card,6,No,Monthly,0,0,0,0,1
+125239,32,Female,108,175,Blacktown,37,Mobile Payment,5,Yes,Weekly,1,1,1,0,0
+125240,29,Other,88,121,Parramatta,35,Credit Card,6,No,Monthly,0,1,0,1,1
+125241,61,Female,63,98,Manly,30,Cash,6,Yes,Monthly,1,0,1,0,0
+125242,24,Female,91,140,Randwick,34,Credit Card,7,Yes,Weekly,0,1,1,1,1
+125243,53,Male,68,80,Sydney CBD,19,Gift Card,6,Yes,Daily,0,1,0,0,1
+125244,59,Male,75,151,Parramatta,16,Gift Card,7,Yes,Weekly,0,1,1,0,1
+125245,19,Female,109,71,Surry Hills,14,Gift Card,6,No,Weekly,1,0,0,0,0
+125246,65,Female,127,107,Manly,26,Credit Card,6,Yes,Monthly,0,0,1,0,1
+125247,53,Male,98,100,Parramatta,28,Mobile Payment,6,No,Weekly,1,1,0,1,1
+125248,48,Other,98,110,Randwick,20,Cash,6,No,Weekly,1,1,1,1,1
+125249,32,Female,69,163,Penrith,17,Debit Card,6,Yes,Monthly,1,1,0,0,1
+125250,28,Female,74,35,Randwick,33,Credit Card,6,Yes,Weekly,1,1,0,0,1
+125251,30,Female,95,113,Surry Hills,9,Gift Card,6,Yes,Weekly,1,0,0,1,0
+125252,25,Male,16,108,Parramatta,25,Online Payment,7,Yes,Weekly,0,1,1,1,0
+125253,65,Male,36,59,Sydney CBD,33,Credit Card,5,Yes,Weekly,0,0,0,1,1
+125254,20,Male,33,172,Burwood,34,Gift Card,5,No,Weekly,1,0,0,0,0
+125255,68,Female,53,82,Manly,17,Online Payment,7,Yes,Weekly,0,0,0,0,1
+125256,38,Female,94,133,Hornsby,25,Gift Card,6,Yes,Monthly,0,0,1,1,1
+125257,37,Female,115,110,Surry Hills,29,Mobile Payment,6,Yes,Weekly,0,1,1,0,1
+125258,52,Male,107,142,Parramatta,21,Online Payment,6,Yes,Weekly,1,0,0,1,0
+125259,34,Male,153,164,Randwick,18,Debit Card,6,Yes,Daily,1,1,1,0,0
+125260,60,Male,131,135,Liverpool,21,Credit Card,5,Yes,Daily,0,1,1,0,0
+125261,45,Male,58,124,Randwick,26,Mobile Payment,7,Yes,Monthly,1,0,1,1,1
+125262,34,Female,104,124,Castle Hill,22,Credit Card,6,Yes,Weekly,0,0,1,0,1
+125263,24,Female,36,110,Sydney CBD,34,Credit Card,6,Yes,Weekly,0,0,0,1,1
+125264,48,Male,60,107,Castle Hill,24,Credit Card,5,No,Monthly,1,1,0,1,1
+125265,33,Male,96,124,Castle Hill,20,Mobile Payment,6,No,Weekly,1,1,0,0,0
+125266,58,Male,136,172,Hornsby,26,Credit Card,6,Yes,Daily,0,1,0,1,0
+125267,59,Female,91,129,Chatswood,31,Gift Card,4,Yes,Weekly,1,0,0,0,0
+125268,61,Female,58,57,Sydney CBD,24,Debit Card,5,Yes,Monthly,0,1,0,1,1
+125269,36,Female,106,118,Parramatta,25,Mobile Payment,4,No,Daily,0,0,0,0,0
+125270,65,Male,89,152,Sydney CBD,16,Online Payment,6,No,Daily,0,1,1,0,1
+125271,61,Male,91,198,Sydney CBD,22,Online Payment,6,Yes,Monthly,1,0,0,1,1
+125272,18,Male,71,8,Parramatta,3,Credit Card,6,Yes,Monthly,1,1,0,0,0
+125273,60,Female,124,108,Castle Hill,28,Mobile Payment,5,No,Weekly,1,0,1,1,1
+125274,52,Male,39,84,Blacktown,27,Debit Card,6,Yes,Monthly,0,1,1,1,1
+125275,48,Other,105,141,Sydney CBD,24,Credit Card,5,Yes,Weekly,0,1,0,1,0
+125276,24,Female,85,130,Hornsby,22,Mobile Payment,6,No,Occasionally,1,0,1,1,0
+125277,37,Female,119,51,Randwick,16,Debit Card,6,Yes,Daily,1,1,0,1,1
+125278,34,Male,68,88,Parramatta,20,Online Payment,6,Yes,Weekly,1,1,1,0,0
+125279,24,Male,96,67,Mascot,28,Credit Card,6,No,Monthly,1,1,0,1,0
+125280,54,Female,86,178,Parramatta,30,Mobile Payment,6,Yes,Monthly,1,0,0,1,0
+125281,54,Female,86,40,Blacktown,19,Cash,5,Yes,Monthly,0,0,0,1,0
+125282,48,Male,68,92,Randwick,41,Mobile Payment,7,Yes,Weekly,1,1,0,0,1
+125283,57,Male,53,143,Randwick,28,Credit Card,6,No,Weekly,0,1,1,1,0
+125284,57,Male,100,127,Parramatta,28,Mobile Payment,6,No,Monthly,0,0,0,1,1
+125285,64,Male,80,56,Sydney CBD,32,Debit Card,7,Yes,Weekly,1,0,1,0,0
+125286,74,Male,188,212,Manly,69,Credit Card,10,Yes,Weekly,1,1,1,0,1
+125287,71,Male,183,300,Sydney CBD,38,Credit Card,5,Yes,Weekly,1,0,1,0,1
